@@ -36,3 +36,6 @@ terraform.rc
 # Ignore test data and test media
 /database/data.sql
 /testmedia/*
+
+secrets.md
+
